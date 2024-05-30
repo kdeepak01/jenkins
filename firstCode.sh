@@ -1,2 +1,2 @@
 touch /var/jenkins_home/devops2
-mkdir clara
+mkdir /var/jenkins_home/clara
